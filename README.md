@@ -13,6 +13,6 @@
 
 
 ## 플레이영상
-<a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+<a href="https://youtu.be/TKemipIPMsI" target="_blank">
     <img src="https://github.com/user-attachments/assets/1ecc3288-b1d2-455a-9fae-1d85ef38d9ba" alt="Image" width="500">
 </a>
