@@ -81,3 +81,5 @@ DerivedDataCache/*
 /Plugins
 *.sln
 *_BuiltData.uasset
+/Content/Fantasy_RPG_Game
+/Content/FantasyBundle
