@@ -13,4 +13,6 @@
 
 
 ## 플레이영상
+
+![Image](https://github.com/user-attachments/assets/1fb36b38-9a14-4319-9480-ff6229a9dd25)
 https://www.youtube.com/watch?v=TKemipIPMsI
